@@ -6,6 +6,7 @@
 <a href="https://github.com/UNIVALI-LITE/Portugol-Studio/releases/tag/v2.7.5">GitHub do projeto Portugol</a>
 
 <br/>
+
 ##### Para instalar no Linux
 Depois de baixar vamos executar esses comandos :
 

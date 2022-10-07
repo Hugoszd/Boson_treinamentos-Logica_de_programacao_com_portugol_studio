@@ -32,8 +32,9 @@ Podemos usar de alguns meios para criar a parte conceitual do nosso algoritmo. I
 ###### Fluxograma  (Veremos um pouco)
 * Descreve o fluxo de dados e instruções usando desenhos geométricos básicos. Esses desenhos possuem representações para entrada, saída e processamento dos dados. Indicado para algoritmos de pouca extensão.
 
-Simbologia básica dos fluxogramas : 
+<p>Simbologia básica dos fluxogramas :</p> 
 <img src="/Modulo%201%20-%20Fundamentos%20de%20lógica%20e%20computadores/img/006.jpg" width=500px>
+<br/>
 <img src="/Modulo%201%20-%20Fundamentos%20de%20lógica%20e%20computadores/img/007.jpg" width=500px>
 <br/>
 
