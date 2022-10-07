@@ -1,3 +1,4 @@
+# Algoritmo, Fluxograma e Diagrama de Chapin
 ### Reforçando conceito de algoritmo
 - Sequência de instruções ordenada, finita e não ambígua que são executadas mecanicamente para fazer uma tarefa.
 - O algoritmo deve ter um fim, pode se comunicar com o mundo exterior, e executar suas instruções em um tempo finito.
