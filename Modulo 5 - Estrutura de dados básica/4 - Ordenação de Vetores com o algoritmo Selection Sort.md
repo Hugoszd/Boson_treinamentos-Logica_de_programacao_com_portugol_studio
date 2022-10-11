@@ -16,7 +16,7 @@
 - Quicksort
 </aside>
 
-#### Algoritmo de troca de posições de um array de acordo com o ordenamento (Para o exemplo vamos usar um array de 3 posições)
+### Algoritmo de troca de posições de um array de acordo com o ordenamento (Para o exemplo vamos usar um array de 3 posições)
 <aside>
 💡 Lembrando : Aqui também vamos precisar de uma variável auxiliar, como visto na aula de “Rotina de Troca de Valores entre Variáveis”
 </aside>
