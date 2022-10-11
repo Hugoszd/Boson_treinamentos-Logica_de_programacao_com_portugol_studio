@@ -22,11 +22,8 @@
 </aside>
 <br/>
 Etapa 1: Vamos comparar as 2 primeiras posições. <br/>
-
     1. Se o valor da pos 0 for menor do que pos 1, os valores se mantem onde  estão.
-
     2. Se o o  valor de pos 0 for maior do que pos 1, o valor de pos 0 é copiado para auxiliar, pos 1 é copiado para pos 0 e auxiliar é copiado para pos 1.
-
     3. Vamos seguir comparando pos zero com as demais posições e fazendo sempre como nos passo a e b em todas essas etapas.
 <br/>
 <br/>
