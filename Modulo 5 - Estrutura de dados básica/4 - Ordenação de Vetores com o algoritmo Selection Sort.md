@@ -31,3 +31,10 @@ Etapa 1: Vamos comparar as 2 primeiras posições.
 Etapa 2: Vamos comparar as próximas 2 casas e agir como vimos no passo 1 até montarmos nosso vetor em ordem crescente. (Número total de comparação $\frac{(n^2 - n)}{2}$ → Onde “n” é o número de elementos do vetor).
 
   * No caso que vimos fica: $\dfrac {9 - 3}{2} = 3$ . Total de 3 comparações.
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
+
+
