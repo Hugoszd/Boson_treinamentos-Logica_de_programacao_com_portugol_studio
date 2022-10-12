@@ -17,3 +17,9 @@
 <aside>
 💡OBS : Temos que usar as variáveis globais com cuidado pois por padrão o programa já será iniciado salvando elas na memória. O uso exagerado de variáveis no escopo global pode sobre carregar o uso da memoria durante a execução. Outro detalhe é que erros em variáveis globais são mais complicados para analisar durante a depuração.
 </aside>
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
+
