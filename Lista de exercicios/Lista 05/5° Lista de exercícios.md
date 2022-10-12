@@ -47,7 +47,7 @@ programa
 <br/>
 
 ### Exercício 2
-A série de Fibonacci é uma sequência de números que inicia com 0 e 1 e na qual cada número subsequente é a soma dos dois números anteriores a ele, da seguinte maneira, infinitamente:
+A série de Fibonacci é uma sequência de números que inicia com 0 e 1 e na qual cada número subsequente é a soma dos dois números anteriores a ele, da seguinte maneira, infinitamente:<br/>
 <img src="/Lista%20de%20exercicios/Lista%2005/img/02.jpg" width=350px>
 <details>
 <summary>Resposta:</summary>
@@ -85,8 +85,8 @@ programa
 <br/>
 
 ### Exercício 3
-Crie uma função que permite converter um número decimal, fornecido pelo usuário, e seu equivalente binário. Por exemplo, o número 65 (decimal) equivale a 1000001 em binário. Dica: Use a técnica de divisões sucessivas por 2 para realizar a conversão, e em pregue o operador de módulo para coletar os restos de cada divisão, como ilustra a imagem de exemplo a seguir:
-<img src="/Lista%20de%20exercicios/Lista%2005/img/03.png" width=500px>
+Crie uma função que permite converter um número decimal, fornecido pelo usuário, e seu equivalente binário. Por exemplo, o número 65 (decimal) equivale a 1000001 em binário. Dica: Use a técnica de divisões sucessivas por 2 para realizar a conversão, e em pregue o operador de módulo para coletar os restos de cada divisão, como ilustra a imagem de exemplo a seguir:<br/>
+<img src="/Lista%20de%20exercicios/Lista%2005/img/03.png" width=500px><br/>
 <img src="/Lista%20de%20exercicios/Lista%2005/img/04.jpg" width=500px>
 <details>
 <summary>Resposta:</summary>
@@ -135,7 +135,7 @@ programa
 <br/>
 
 ### Exercício 4
-Um número primo é um número inteiro positivo que possui apenas dois fatores: ume ele próprio. Ou seja, é um valor divisível apenas por si mesmo e por um. Escreva um programa que receba um número digitado pelo usuário e diga se o número é primo ou não, usando uma função. Dica: Use o operador de módulo para verificar se o número fornecido é primo. Lista de números primos entre 1 e 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89 e 97.
+Um número primo é um número inteiro positivo que possui apenas dois fatores: ume ele próprio. Ou seja, é um valor divisível apenas por si mesmo e por um. Escreva um programa que receba um número digitado pelo usuário e diga se o número é primo ou não, usando uma função. Dica: Use o operador de módulo para verificar se o número fornecido é primo. Lista de números primos entre 1 e 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89 e 97.<br/>
 <img src="/Lista%20de%20exercicios/Lista%2005/img/05.jpg" width=500px>
 <details>
 <summary>Resposta:</summary>
