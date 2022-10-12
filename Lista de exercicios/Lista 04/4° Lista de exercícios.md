@@ -38,7 +38,7 @@ programa
 <br/>
 
 ### Exercício 02
-Crie um vetor de 5 números informados pelo usuário e monte outro vetor contendo os valores do primeiro multiplicados por um fator também informado pelo usuário. Mostrar os elementos de ambos os vetores na tela, lado a lado, como segue.
+Crie um vetor de 5 números informados pelo usuário e monte outro vetor contendo os valores do primeiro multiplicados por um fator também informado pelo usuário. Mostrar os elementos de ambos os vetores na tela, lado a lado, como segue.<br/>
 <img src="/Lista%20de%20exercicios/Lista%2004/img/1.png" width=180px>
 <details>
 <summary>Resposta:</summary>
@@ -79,7 +79,7 @@ programa
 <br/>
 
 ### Exercício 03
-Cadastrar 5 nomes de professores e seus respectivos tempos de profissão. Armazene esses valores em dois vetores distintos. Mostrar os dados na tela, em uma tabela com os nomes dos professores na coluna à esquerda, e os tempos de profissão de cada um em uma coluna à direita, como no exemplo a seguir :
+Cadastrar 5 nomes de professores e seus respectivos tempos de profissão. Armazene esses valores em dois vetores distintos. Mostrar os dados na tela, em uma tabela com os nomes dos professores na coluna à esquerda, e os tempos de profissão de cada um em uma coluna à direita, como no exemplo a seguir :<br/>
 <img src="/Lista%20de%20exercicios/Lista%2004/img/2.png" width=400px>
 <details>
 <summary>Resposta:</summary>
@@ -121,7 +121,7 @@ programa
 <br/>
 
 ### Exercício 04
-Um depósito armazena 8 produtos distintos, e para cada tipo de produto existe um código. Crie um algoritmo para ler o código do produto e a quantidade em estoque. Monte dois vetores para armazenar respectivamente os códigos das mercadorias e a quantidade dos produtos. Mostrar na tela um relatório dos dados, em formato tabular, como no exemplo seguinte:
+Um depósito armazena 8 produtos distintos, e para cada tipo de produto existe um código. Crie um algoritmo para ler o código do produto e a quantidade em estoque. Monte dois vetores para armazenar respectivamente os códigos das mercadorias e a quantidade dos produtos. Mostrar na tela um relatório dos dados, em formato tabular, como no exemplo seguinte:<br/>
 <img src="/Lista%20de%20exercicios/Lista%2004/img/3.jpg" width=250px>
 <details>
 <summary>Resposta:</summary>
