@@ -9,3 +9,9 @@
 2.  potencias( $2^3$) e raízes  ( $\sqrt{}$)
 3. Multiplicação e divisão
 4. Soma e subtração
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
+
