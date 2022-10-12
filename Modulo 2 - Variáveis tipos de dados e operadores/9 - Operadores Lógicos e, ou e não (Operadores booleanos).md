@@ -83,3 +83,11 @@ O Operador “NÃO-OU-EXCLUSIVO” ou “XNOR” é o contrário do operador OU-
 | Verdadeiro | Falso | Falso |
 | Falso | Verdadeiro | Falso |
 | Falso | Falso | Verdadeiro |
+
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
+
+
