@@ -22,3 +22,9 @@ Em muitas resoluções de problemas precisamos trocar valores armazenados em 2 v
 <img src="/Modulo%205%20-%20Estrutura%20de%20dados%20básica/img/1.jpg" width="400px"><br/>
 <img src="/Modulo%205%20-%20Estrutura%20de%20dados%20básica/img/2.jpg" width="400px"><br/>
 <img src="/Modulo%205%20-%20Estrutura%20de%20dados%20básica/img/3.jpg" width="400px">
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
+
