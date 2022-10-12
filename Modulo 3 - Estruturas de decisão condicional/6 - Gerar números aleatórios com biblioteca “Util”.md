@@ -16,3 +16,8 @@ Para gerar números aleatórios vamos usar a biblioteca “util” e o método �
 // Note, inicial e final indicam o intervalo de valores a serem sorteados
 var = Util.sorteia(inicial, final)
 ```
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
+
