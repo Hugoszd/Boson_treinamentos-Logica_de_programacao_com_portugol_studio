@@ -83,7 +83,7 @@ programa
 
 ### Exercício 3
 Escreva um algoritmo que some os números de 1 a 10, mostrando na tela as somas
-parciais e, no final, o total. A impressão deve seguir o padrão:
+parciais e, no final, o total. A impressão deve seguir o padrão:<br/>
 <img src="/Lista%20de%20exercicios/Lista%2003/img/1.png" width=200px>
 
 3 (soma do número 1 com o número 2)
@@ -309,7 +309,7 @@ programa
 <br/>
 
 ### Exercício 6
-Crie um programa para um sistema de votação com urna eletrônica. Neste sistema, os partidos válidos são os de números 43 e 51. O eleitor (usuário) digita seu voto e pressiona a tecla enter, e logo após o programa pede para o próximo eleitor votar. Caso não seja informado nenhum dos números de partidos válidos, o voto é considerado nulo, e caso seja informado o número zero, a votação é encerrada e então será exibido na tela o resultado da eleição, com o número de votos em cada partido, os votos nulos e a quantidade total de eleitores que votaram, como demonstra o esquema a seguir:
+Crie um programa para um sistema de votação com urna eletrônica. Neste sistema, os partidos válidos são os de números 43 e 51. O eleitor (usuário) digita seu voto e pressiona a tecla enter, e logo após o programa pede para o próximo eleitor votar. Caso não seja informado nenhum dos números de partidos válidos, o voto é considerado nulo, e caso seja informado o número zero, a votação é encerrada e então será exibido na tela o resultado da eleição, com o número de votos em cada partido, os votos nulos e a quantidade total de eleitores que votaram, como demonstra o esquema a seguir:<br/>
 <img src="/Lista%20de%20exercicios/Lista%2003/img/2.png" width=350px>
 <details>
 <summary>Resposta:</summary>
