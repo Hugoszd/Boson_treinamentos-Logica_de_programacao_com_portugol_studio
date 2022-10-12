@@ -21,3 +21,8 @@ chmod 755 nome_do_script_run_do_portugol
 # Agora é só fazer o comando para executar o script
 sudo ./nome_do_script_run_do_portugol
 ```
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
