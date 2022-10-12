@@ -57,3 +57,8 @@ Problema: Calcular a média de um aluno baseado nas 4 notas que recebeu no ano. 
 
 ###### Algoritmo em diagrama de Chapin (Estrutograma)
 <img src="/Modulo%201%20-%20Fundamentos%20de%20lógica%20e%20computadores/img/011.jpg" width=700px>
+
+<br/>
+<br/>
+
+[Voltar para o menu principal](https://github.com/Joshpcbrrj/Boson_treinamentos-Logica_de_programacao_com_portugol_studio)
