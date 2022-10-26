@@ -57,7 +57,8 @@ Linguagem que utiliza instruções próximas a linguagem de máquina, porém tam
 
 ###### Linguagem de alto nível
 Linguagem cujas instruções estão bem mais próximas a compreensão humana. 
-Exexmplos: C# / Python / Visual Basic / Java / Lisp / PHP
+<br/>
+Exemplos: C# / Python / Visual Basic / Java / Lisp / PHP
 
 <br/>
 <br/>
